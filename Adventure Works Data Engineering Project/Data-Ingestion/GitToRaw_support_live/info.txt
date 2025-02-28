@@ -1,0 +1,6 @@
+selected resource name:		GitToRaw
+selected resource type:		pipeline
+factory name:			kb-adf-project
+factory location:		uksouth
+subscription id:		6d9026c2-b645-423d-a269-db51a57a8a1b
+time of download (UTC):		Fri, 28 Feb 2025 10:55:44 GMT

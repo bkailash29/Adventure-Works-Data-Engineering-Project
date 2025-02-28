@@ -1,0 +1,23 @@
+{
+    "now": "2025-02-28T10:55:44.481Z",
+    "perfNow": 106552.40000000224,
+    "diagnosticCorrelation": "28f36ba3-541d-4987-b39a-c5f63d650871",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.020725.5",
+        "environmentType": 3,
+        "resourceName": "kb-adf-project",
+        "resourceRegion": "uksouth",
+        "resourceGroup": "KBPROJECT",
+        "subscriptionId": "6d9026c2-b645-423d-a269-db51a57a8a1b",
+        "sessionId": "o5Va6ayBPKIe3MZn14A+LY",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "9f60135f-40d2-43be-9570-85a0f8184389"
+    },
+    "additionalInfo": {
+        "selectedResource": "GitToRaw",
+        "selectedResourceType": "pipeline"
+    }
+}
